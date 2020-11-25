@@ -4,7 +4,7 @@
 ### Oi eu sou a `Paula!` bem-vindo ao meu perfil 👋
 
 
-- :rocket: Atualmente, estou aprendendo Java, Javascript e seus frameworks pela [Alura](https://www.alura.com.br).
+- :rocket: Atualmente, estou aprendendo Apache Kafka, Javascript e seus frameworks pela [Alura](https://www.alura.com.br).
 - :mortar_board: Sou formada em Sistemas de Informação pela [UNINASSAU](https://www.uninassau.edu.br).
 - :books: Além disso faço curso de java pela [Fuctura](https://www.fuctura.com.br/recife/).
 
