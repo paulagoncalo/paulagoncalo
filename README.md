@@ -6,7 +6,7 @@
 
 - :rocket: Atualmente estou estudando para a certificação Java SE 8 Programmer I com o material da [Casa do Código](https://www.casadocodigo.com.br/products/livro-certificacao-java-associate).
 - :mortar_board: Sou formada em Sistemas de Informação pela [UNINASSAU](https://www.uninassau.edu.br).
-- :books: Além disso faço curso de javascript pela [Alura](https://www.alura.com.br).
+- :books: Além disso faço curso de javascript pelo [Alura](https://www.alura.com.br).
 
 <br />
 
