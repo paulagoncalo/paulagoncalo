@@ -15,6 +15,9 @@
 [<img align="left" alt="haryel gillet ramalho | Github" width="40px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png" />][github]
 [<img align="left" alt="haryel gillet ramalho | E-mail" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-256.png" />][gmail]
 
+<br/>
+<br/>
+<br/>
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulagoncalo&layout=compact&theme=algolia" alt="Most used Language" />
 
